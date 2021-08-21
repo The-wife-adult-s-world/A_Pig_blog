@@ -2,7 +2,7 @@
 
 好看的个人主页，个人主页源码，博客主页模板.**🉑️随意使用，无限制。**
 
-预览地址：[https://laoxuai.github.io/home](https://laoxuai.github.io/home)
+预览地址：[https://the-wife-adult-s-world.github.io/A_Pig_blog/](https://the-wife-adult-s-world.github.io/A_Pig_blog/)
 
 ## 集成插件
 
